@@ -2,4 +2,14 @@
 Practicing aws with python
 
 
-change thos readme file for fun
+## 01-webotron
+
+change this readme file for fun
+
+
+### Features
+
+Webotron has the following features:
+
+- list all buckets
+- list all objects within a bucket 
